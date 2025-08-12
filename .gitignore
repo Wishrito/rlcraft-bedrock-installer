@@ -180,5 +180,7 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
+# local env config
 tests/
 .vscode
+compile.bat

@@ -1,1 +1,0 @@
-pyinstaller --onefile main.py --name "mc folder fetcher" --debug all
